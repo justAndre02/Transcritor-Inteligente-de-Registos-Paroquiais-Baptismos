@@ -1,0 +1,6 @@
+{
+  "name": "Transcrição de Batismos 1861",
+  "description": "Transcrição inteligente por IA de registos paroquiais de batismo de Ponta Delgada guiada por dicionário paleográfico histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
